@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855624649991",
+    "project_id": "androidmobile-2",
+    "storage_bucket": "androidmobile-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855624649991:android:263762ebd538b7962449a2",
+        "android_client_info": {
+          "package_name": "com.dennisyulianto.androidmobile2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmspFT8V5LtHArSCir1GjtWH36wiWFtiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
